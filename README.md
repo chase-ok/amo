@@ -1,0 +1,2 @@
+# amo
+DynamoDB Rust client
